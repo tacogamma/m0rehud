@@ -11,7 +11,7 @@
 		"YPos"										"cs-0.5+75"
 		"YPos_Minmode"								"cs-0.5+100"
 		"ZPos"										"2"
-		"Wide"										"269"
+		"Wide"										"270"
 		"Tall"										"9"
 		"Visible"									"1"
 		"Enabled"									"1"
